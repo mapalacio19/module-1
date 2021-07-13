@@ -13,5 +13,4 @@ About the README Project
 Link:
 [Horiseon](https://mapalacio19.github.io/module-1/#social-media-marketing)
 
-Screenshot:
-[Business meeting with four colleages](.module-1/https://github.com/mapalacio19/module-1/blob/main/horiseon-pic.JPG)
+![Business meeting with four colleages](.module-1/https://github.com/mapalacio19/module-1/blob/main/horiseon-pic.JPG)
