@@ -10,6 +10,10 @@ About the README Project
 
 #4 I created a brand new github repository for the file.
 
+# Website Description
+
+Horiseon's business website specializes in SEO and offers a marketing strategy for sales operations.
+
 Link:
 [Horiseon](https://mapalacio19.github.io/module-1/#social-media-marketing)
 
