@@ -14,7 +14,8 @@ About the README Project
 
 Horiseon's business website specializes in SEO and offers a marketing strategy for sales operations.
 
-Link:
+# Horiseon Link and Screenshot
+
 [Horiseon](https://mapalacio19.github.io/module-1/#social-media-marketing)
 
 ![horiseon-pic](https://user-images.githubusercontent.com/84938967/125389228-1db89880-e35e-11eb-9c20-c45bc8d43edc.JPG)
